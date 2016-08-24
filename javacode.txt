@@ -1,5 +1,7 @@
 
 public class MyTesClass{
 
-
+  public static void main{
+  
+  }
 }
