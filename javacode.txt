@@ -1,5 +1,8 @@
 // comment from mas side
 public class MyTesClass{
 
-
+  // this added from github side
+  public static void main{
+  
+  }
 }
