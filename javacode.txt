@@ -8,3 +8,4 @@ public class MyTesClass{
 }
 
 // 1006 added by github side and I will try to pull
+//1010 added by mas
