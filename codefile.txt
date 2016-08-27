@@ -8,5 +8,7 @@
 27.8.2016 master is changed
 //-------------------------------------------------
 // this section is entered on local hotfix branch
+// when we switch branch to master is not visible
+// now we need to check remote
 //-------------------------------------------------
 
