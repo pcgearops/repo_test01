@@ -4,4 +4,6 @@
 // 10:53 by git hub
 //1055 by mas
 // 10:58 by git hub
+//===================================
+27.8.2016 master is changed
 
